@@ -13,7 +13,7 @@
 
 - **Frontend:**  
   - HTML5, CSS3, JavaScript  
-  - Bootstrap 5, jQuery  
+  - Bootstrap 4, jQuery  
   - Leaflet.js (สำหรับแผนที่)
 
 - **Backend:**  
