@@ -1,0 +1,25 @@
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.stat-number {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.chart-container {
+    height: 250px;
+    width: 100%;
+}
